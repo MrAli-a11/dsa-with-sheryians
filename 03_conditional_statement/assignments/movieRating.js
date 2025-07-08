@@ -1,4 +1,4 @@
-const ask = require("../utils/inputHelper");
+const ask = require("../../utils/inputHelper");
 
 const movie = ask('Enter the movie name')
 const rating = parseFloat(ask('Enter the rating'))

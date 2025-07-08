@@ -1,4 +1,4 @@
-const ask = require("../utils/inputHelper");
+const ask = require("../../utils/inputHelper");
 
 let amount = parseInt(ask('Enter the amount'))
 
